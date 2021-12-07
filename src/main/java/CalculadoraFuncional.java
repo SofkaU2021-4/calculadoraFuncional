@@ -1,4 +1,3 @@
-
 import java.util.function.IntBinaryOperator;
 import java.util.stream.IntStream;
 
